@@ -1,4 +1,4 @@
-[v0.1.9](https://github.com/littleflute/m21/edit/master/README.md)
+[v0.2.9](https://github.com/littleflute/m21/edit/master/README.md)
 
 [Vince Guaraldi/Peanuts greatest hits/cd](Vince Guaraldi/Peanuts greatest hits/cd)
 
@@ -15,3 +15,8 @@
 [Yang XueFei/Romance de amor/cd](Yang XueFei/Romance de amor/cd)
 
 [World yoga/cd](World yoga/cd)
+
+[Woodstock two/cd1](Woodstock two/cd1)
+
+[Woodstock two/cd2](Woodstock two/cd2)
+
